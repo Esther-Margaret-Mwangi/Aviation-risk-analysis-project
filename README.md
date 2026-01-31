@@ -16,7 +16,7 @@ The dataset has 2500 records of data. One limitation found was that the data did
 
 # Data Analysis
 
-The data was cleaned and anylisis was done. Refer to the PDF for better understanding of the project and what was done in the code.
+The data was cleaned and anylisis was done. Refer to the PDF (Aircraft Safety Risk Analysis.pdf) for better understanding of the project and what was done in the code.
 
 # Data Visualization
 
