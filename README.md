@@ -14,7 +14,7 @@ operator, fatalities (fat), location and damage outcomes (dmg). The dataset is p
 
 The dataset has 2500 records of data. One limitation found was that the data didn’t have any information about number of flights per the aircrafts which makes this research focused on the risk patterns instead of accident probabilities which would have been more useful
 
-# Data analysis
+# Data Analysis
 
 The data was cleaned and anylisis was done. Refer to the PDF for better understanding of the project and what was done in the code.
 
